@@ -1,0 +1,4 @@
+train: /content/drive/MyDrive/HelmetDetection/train/images
+val: /content/drive/MyDrive/HelmetDetection/valid/images
+nc: 6
+names: ['bike', 'helmet', 'lisc', 'no_helmet', 'noise', 'rider']
